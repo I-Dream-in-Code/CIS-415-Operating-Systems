@@ -1,0 +1,1 @@
+cc -W -Wall   -c -o diskdriver.o diskdriver.c
